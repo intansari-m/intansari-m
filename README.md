@@ -1,11 +1,6 @@
-<!-- Banner Header -->
+<!-- Header Image / Anime GIF -->
 <p align="center">
-  <img src="https://i.ibb.co/GJ5m99T/dark-data-header.png" width="900">
-</p>
-
-<!-- Header Image / Anime Image -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ff/63/2b/ff632b11f0f1ef2e52ffb61d52a87c4c.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/0f/57/3f/0f573f8b9e7fc0f9f3c7d00df6f0a4c4.gif" width="250"/>
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
