@@ -8,21 +8,21 @@ I'm Intan Sari Muharni — a data enthusiast passionate about turning raw data i
 
 🔧 Tech Stack & Tools
 
-Languages: Python, SQL
+* Languages: Python, SQL
 
-Analytics: Pandas, NumPy, Scikit-learn (basic), Google Sheets, Excel
+* Analytics: Pandas, NumPy, Scikit-learn (basic), Google Sheets, Excel
 
-Visualization: Tableau, Looker Studio, Matplotlib, Seaborn
+* Visualization: Tableau, Power BI, Matplotlib, Seaborn
 
-Other: GitHub, Jupyter Notebook, VS Code
+* Other: GitHub, Jupyter Notebook, VS Code
 
 🎯 What I’m focusing on
 
-Building real-world data projects & dashboards
+* Building real-world data projects & dashboards
 
-Strengthening my analytical workflow
+* Strengthening my analytical workflow
 
-Collaborating on open-source or learning projects
+* Collaborating on open-source or learning projects
 
 📫 Let’s connect!
 
