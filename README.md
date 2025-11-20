@@ -1,6 +1,6 @@
 <!-- Header Image / Anime GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0f/57/3f/0f573f8b9e7fc0f9f3c7d00df6f0a4c4.gif" width="250"/>
+  <img src="https://gist.githubusercontent.com/LudovicoPiero/3d44561967a957993baeec648c33a06d/raw/3d44561967a957993baeec648c33a06d/cute_anime_girl.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
@@ -63,4 +63,4 @@ Alongside analytics, I’m also growing my interest in **Machine Learning**, foc
 ---
 
 ## 🤝 Let’s Connect!
-Feel free to reach out if you want to collaborate, discuss data, or share ideas! 😊
+Feel free to reach out if you want to collaborate, discuss data, or share ideas! 😊  
