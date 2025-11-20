@@ -44,7 +44,7 @@ Alongside analytics, I’m also growing my interest in **Machine Learning**, foc
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io-badge/Seaborn-4C72B0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
 </p>
 
 ### 🧰 **Other Tools**
