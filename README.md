@@ -1,7 +1,9 @@
-<!-- Header Image / Anime GIF -->
+<!-- Header Image / Anime Image -->
 <p align="center">
-  <img src="https://gist.githubusercontent.com/LudovicoPiero/3d44561967a957993baeec648c33a06d/raw/3d44561967a957993baeec648c33a06d/cute_anime_girl.gif" width="200"/>
+  <img src="https://camo.githubusercontent.com/9ac8d1964d38d6703ca7589f9421fd7e6194cf80b09945809a3bd09a344bd794/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4c696f71324f435132624941414141432f6c616c61617274776f726b2d6c616c612e676966" width="220"/>
 </p>
+
+
 
 <h1 align="center">Hi there! 👋</h1>
 
@@ -42,7 +44,7 @@ Alongside analytics, I’m also growing my interest in **Machine Learning**, foc
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io-badge/Seaborn-4C72B0?logo=python&logoColor=white" />
 </p>
 
 ### 🧰 **Other Tools**
@@ -63,4 +65,4 @@ Alongside analytics, I’m also growing my interest in **Machine Learning**, foc
 ---
 
 ## 🤝 Let’s Connect!
-Feel free to reach out if you want to collaborate, discuss data, or share ideas! 😊  
+Feel free to reach out if you want to collaborate, discuss data, or share ideas! 😊
