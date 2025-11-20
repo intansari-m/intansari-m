@@ -1,6 +1,11 @@
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://i.ibb.co/GJ5m99T/dark-data-header.png" width="900">
+</p>
+
 <!-- Header Image / Anime Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/65/ba/48/65ba488626025cff82f091336fbf94bb.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/ff/63/2b/ff632b11f0f1ef2e52ffb61d52a87c4c.gif" width="200"/>
 </p>
 
 <h1 align="center">Hi there! 👋</h1>
@@ -63,4 +68,4 @@ Alongside analytics, I’m also growing my interest in **Machine Learning**, foc
 ---
 
 ## 🤝 Let’s Connect!
-Feel free to reach out if you want to collaborate, discuss data, or share ideas! 😊  
+Feel free to reach out if you want to collaborate, discuss data, or share ideas! 😊
